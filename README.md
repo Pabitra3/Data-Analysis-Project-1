@@ -76,27 +76,27 @@ Data-Analysis-Project-1/
 
 ### 1. Most Popular Restaurant Type
 
-    Most popular restaurant type is Dinning catagory
+   Most popular restaurant type is Dinning catagory
 
 ### 2. Restaurant Votes by Type
 
-    Dinning restaurants have recieved maximum votes
+   Dinning restaurants have recieved maximum votes
 
 ### 3. Distribution of Restaurant Ratings
 
-    The majority restaurants recieved ratings from 3.5 to 4
+   The majority restaurants recieved ratings from 3.5 to 4
 
 ### 4. Average Spending for Online Orders by Couples
 
-    The majority of couples prefer restaurants with an approximate cost of 300 rupees
+   The majority of couples prefer restaurants with an approximate cost of 300 rupees
 
 ### 5. Rating Comparison: Online vs. Offline
 
-    Offline order recieved lower ratings in comparison to online order
+   Offline order recieved lower ratings in comparison to online order
 
 ### 6. Offline Order Preferences
 
-    Dinning restaurants primarily accept offline orders, where as cafes primarily recieve online orders. This suggests that clints prefer to place orders in person at restaurants,but prefer online ordering at cafes.
+ Dinning restaurants primarily accept offline orders, where as cafes primarily recieve online orders. This suggests that clints prefer to place orders in person at restaurants,but prefer online ordering at cafes.
 
 ## Contributing
 
